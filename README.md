@@ -160,11 +160,48 @@ Before join this training please check all training sessions are align and neces
 - Managing client expectations
 - Using project management tools
 
-## Bonus Module: Advanced Topics (Optional)
+## Bonus Module: ERROR HANDLING
 
-- High availability and load balancing
-- Container orchestration (Kubernetes)
-- Serverless architecture
+1. HTTP Status Codes (Apache):
+   - 200 - OK: The request was successful.
+   - 404 - Not Found: The requested resource was not found.
+   - 500 - Internal Server Error: A generic server error occurred.
+   - 403 - Forbidden: Access to the requested resource is not allowed.
+   - 401 - Unauthorized: Authentication is required.
+   - 502 - Bad Gateway: The server received an invalid response from an upstream server.
+
+2. MySQL Error Codes:
+   - 1064 - SQL syntax error: There is a syntax error in the SQL query.
+   - 1045 - Access denied for user: Authentication failed.
+   - 1054 - Unknown column: The specified column does not exist in the table.
+   - 1452 - Cannot add or update a child row: A foreign key constraint violation occurred.
+
+3. PHP Error Types:
+   - E_NOTICE - Non-critical error related to variable usage.
+   - E_WARNING - Non-fatal error that may affect script execution.
+   - E_ERROR - Fatal error that halts script execution.
+   - E_PARSE - Parse error due to syntax issues in the PHP code.
+   - E_DEPRECATED - Deprecated feature usage warning.
+
+4. PHP HTTP Response Codes:
+   - 200 - OK: Successful response.
+   - 404 - Not Found: Resource not found.
+   - 500 - Internal Server Error: Server-side error.
+
+5. Apache Error Log Codes:
+   - AH00112 - Warning: Detected potential module/environment conflicts.
+   - AH01630 - client denied by server configuration: Access denied due to server configuration.
+   - AH01071 - Got error 'Primary script unknown': Issue with rewriting rules.
+   - AH00557 - Failed to resolve server name: DNS resolution issue.
+
+6. MySQL/MariaDB Server Error Log Codes:
+   - 1005 - Can't create table: Issue with creating a table, often related to foreign key constraints.
+   - 1215 - Cannot add foreign key constraint: A foreign key constraint could not be added.
+   - 2002 - Can't connect to local MySQL server: MySQL server connection issue.
+   - 2013 - Lost connection to MySQL server: Connection to the MySQL server was lost.
+
+These are just a few examples of error codes you may encounter in a LAMP stack. The specific error codes and their meanings can vary depending on the version of each component and the configuration of your server. When troubleshooting errors in a LAMP stack, it's essential to check the relevant logs and documentation for the specific error message you encounter to diagnose and resolve the issue effectively.
+
 
 ## Final Project
 
