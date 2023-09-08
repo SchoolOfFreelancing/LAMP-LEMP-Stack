@@ -1,6 +1,43 @@
 # Mastering LAMP/LEMP Stack: On-Demand Hands-On Training for Future Freelance Engineers
 Creating a comprehensive on-demand training for aspiring freelance LAMP/LEMP stack engineers involves structuring the content effectively to cover the necessary concepts, hands-on exercises, and real-world scenarios. 
 
+## Beauty Of This Training
+
+📢 Focus: LAMP/LEMP stack project development support specialist
+
+📢 Output: successful Participant can earn by doing freelancing from home
+
+📢 Training Duration: 20 hours over one month
+
+📢 Training Time: 10:00 PM (22:00) - 12:00 AM (24:00) GMT+6 [Business Days]
+
+📢 Participation Fee: $150
+
+📢 Mentor: Verified Freelancer M01606319624 @ freelancers.gov.bd
+
+📢 Training Modules: Advanced modules tailored for start LAMP/LEMP stack project development support
+
+📢 Target Marketplace: Fiverr | Upwork | Guru.com | Freelancer.com | PPH
+
+📢 Track Training Task: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
+
+## Training Prerequisite
+🏋️ Need To Have Three To Five Years Computer Using Experience.
+
+🚴 Need To Have Willingness, Patience And Concentrations For Participate This Training.
+
+🖥 Need To Have Your Own Laptop/Desktop PC With 200gb Ssd And 8gb Ram (16gb/500gb Recommended).
+
+🕸 Need To Have 24 Hours High Speed Optical Fiber Wired Dedicated Personal Internet Access & Electric.
+
+🆔 Need To Have Government Issued Photo Id (Passport, Nid Or Driving License).
+
+📱 Need To Have Portable Devices For Instant Client Communications.
+
+👓 Need To Have The Capability To Read And Understand English Including Good Typing Skills.
+
+Before join this training please check all training sessions are align and necessary for level up your skills and you are happy to enroll this training from home 🏠
+
 # The Training
 
 ## Module 1: Introduction to LAMP/LEMP Stack
