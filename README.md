@@ -1,7 +1,7 @@
 # Mastering LAMP/LEMP Stack: On-Demand Hands-On Training for Future Freelance Engineers
 Creating a comprehensive on-demand training for aspiring freelance LAMP/LEMP stack engineers involves structuring the content effectively to cover the necessary concepts, hands-on exercises, and real-world scenarios. 
 
-## The Training
+# The Training
 
 ## Module 1: Introduction to LAMP/LEMP Stack
 
